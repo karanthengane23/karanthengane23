@@ -43,4 +43,5 @@
 ---
 
 ### ✨ Fun Fact  
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&no-cache=${Math.random()})
+
