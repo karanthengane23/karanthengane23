@@ -42,7 +42,5 @@
 
 ---
 
-### ✨ Fun Facts About Me  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=Code+is+like+humor+—+when+you+have+to+explain+it,+it's+bad.;First,+solve+the+problem.+Then,+write+the+code.;Programming+is+10%+writing+code+and+90%+debugging.;A+good+programmer+looks+both+ways+before+crossing+a+one-way+street.;Talk+is+cheap.+Show+me+the+code." alt="Dynamic Fun Facts" />
-</p>
+### ✨ Fun Fact  
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
