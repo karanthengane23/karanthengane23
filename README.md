@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Thengane</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Elixir+%2F+Phoenix+%7C+MERN+%7C+Next.js;Competitive+Programmer+(ICPC);Open-Source+Contributor" alt="Typing Animation" />
+  <b>Software Engineer</b> · Full-Stack Developer · Elixir/Phoenix · MERN · Next.js · Competitive Programmer (ICPC)
 </p>
 
 <p align="center">
@@ -66,19 +66,6 @@
 |---------|-------------|------|
 | **[PDF-RAG — Chat with PDF](https://github.com/karanthengane23/pdf-rag)** | Full-stack AI app for real-time, context-aware querying of PDF documents | Next.js · BullMQ · Qdrant · HuggingFace |
 | **[Samvad — Real-Time Chat](https://github.com/karanthengane23/Samvad1)** ([Live](https://samvad1-frontend.onrender.com)) | Instant messaging app with an AI assistant | MERN · Socket.IO · Gemini API |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karanthengane23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanthengane23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=karanthengane23&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
