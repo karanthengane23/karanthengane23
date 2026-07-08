@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Thengane</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Elixir+%2F+Phoenix+%7C+MERN+%7C+Next.js;Competitive+Programmer+(ICPC);Open-Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Elixir+%2F+Phoenix+%7C+MERN+%7C+Next.js;Competitive+Programmer+(ICPC);Open-Source+Contributor" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanthengane23&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=karanthengane23&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
