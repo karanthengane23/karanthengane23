@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:1a1b27&height=200&section=header&text=Karan%20Thengane&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%" alt="header"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+Thengane;Software+Engineer+%7C+Full-Stack+Developer;Elixir%2FPhoenix+%C2%B7+MERN+%C2%B7+Next.js+%C2%B7+Java;Open+Source+Contributor+%40+CNCF;ICPC+Regionalist+%7C+850%2B+LeetCode" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=680&lines=Elixir%2FPhoenix+%C2%B7+MERN+%C2%B7+Next.js+%C2%B7+Java;Open+Source+Contributor+%40+CNCF;46+merged+PRs+in+production;ICPC+Regionalist+%7C+850%2B+LeetCode" alt="Typing SVG" />
 
 <p>
   <a href="https://karanthengane.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -35,39 +37,21 @@
 
 ### 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-<p>
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=elixir,java,python,cpp,ts,js&theme=dark" alt="languages"/>
 
 **Backend & Frontend**
 
-<p>
-  <img src="https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=phoenix,nodejs,express,react,nextjs,tailwind&theme=dark" alt="frameworks"/>
 
 **Databases & Tools**
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,linux&theme=dark" alt="tools"/>
+
+</div>
 
 ---
 
@@ -96,6 +80,18 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanthengane23&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=karanthengane23&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karanthengane23/karanthengane23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karanthengane23/karanthengane23/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/karanthengane23/karanthengane23/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -103,3 +99,5 @@
 <p align="center"><i>⚡ Fun fact: I'm a division-level chess player — same love for the endgame in code and on the board.</i></p>
 
 <p align="center"><i>Open to full-time Software Engineer roles.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:00C7B7&height=120&section=footer" width="100%" alt="footer"/>
